@@ -44,13 +44,13 @@ O **LifeLoom** foi desenvolvido pelos alunos do **6º período de Engenharia de 
 ### **Contribuidores**
 
 - **Alunos:**
-  - Felipe Brian Marques Gonçalves	
-  - Emilly Eduarda Bitencourt Cardoso	
-  - Joao Marcus Fleury Siqueira	
   - Edwin Nichollas Rocha Medina	
+  - Emilly Eduarda Bitencourt Cardoso	
+  - Felipe Brian Marques Gonçalves	
+  - Joao Marcus Fleury Siqueira	
   - João Victor Guimarães Santos	
-  - Marcos Vinicius Silva Andrade	
   - João Vitor Luiz Soares Silva
+  - Marcos Vinicius Silva Andrade	
 
 
 ---
