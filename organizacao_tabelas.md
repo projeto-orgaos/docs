@@ -12,6 +12,7 @@ Este documento descreve as decisões arquiteturais relacionadas à organização
 ---
 
 ## **Entidades e Relacionamentos**
+![LifeLoom](https://github.com/user-attachments/assets/54ad76d6-6c1a-4cdb-b9ba-58b601d788d2)
 
 ### 1. **User**
 **Por que foi separado?**  
