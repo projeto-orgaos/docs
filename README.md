@@ -7,7 +7,7 @@
 - João Victor Guimarães Santos - 2212057
 - João Marcos Fleury - 2211142
 - Marcos Vinícius Silva Andrade - 2210372
-  
+- Vanessa Nassar Aji - 2311987
 ## **Sobre o Projeto**
 
 O **LifeLoom** é um sistema voltado para a conscientização e facilitação do processo de doação de órgãos. A ideia nasceu de uma iniciativa da **Professora Mariana Maranhão**, com o objetivo de engajar alunos e a comunidade em uma causa de extrema relevância social. Posteriormente, o projeto foi expandido e abraçado por diferentes cursos da **UniEVANGÉLICA**, destacando-se a contribuição do curso de Engenharia de Software.
